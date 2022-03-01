@@ -1,0 +1,32 @@
+
+# Indemnification Reason Enum
+
+## Enumeration
+
+`IndemnificationReasonEnum`
+
+## Fields
+
+| Name |
+|  --- |
+| `CHECKOUT` |
+| `ANALYST_APPROVED` |
+| `VIRTUAL_TERMINAL` |
+| `MERCHANT_BACK_OFFICE` |
+| `MERCHANT_FORCE_APPROVED` |
+| `REVERSIBLY_REJECTED` |
+| `IRREVERSIBLY_REJECTED` |
+| `RISK_ENGINE_APPROVED` |
+| `AUTH_VERIFICATION` |
+| `PAYPAL` |
+| `AFTERPAY` |
+| `DIRECT_PAYMENTS` |
+| `EXTERNAL_REVIEW` |
+| `AFFIRM` |
+| `PHONE_ORDER` |
+| `AMAZON_PAY` |
+| `KLARNA` |
+| `INDEMNIFY_DIRECT_PAYMENTS` |
+| `MEMBERSHIP_SUBSCRIPTION` |
+| `MERCHANT_IP_ADDRESS` |
+
